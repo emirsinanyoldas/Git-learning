@@ -1,0 +1,1 @@
+# git kursunda öğrendiklerimi buraya yazdım
