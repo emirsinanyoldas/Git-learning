@@ -6,3 +6,5 @@ liste yazalım
 + eleman 1
 + eleman 2
 + eleman 3
+
+bu eklentide gitignore öğgreniyorum
