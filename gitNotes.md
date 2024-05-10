@@ -8,3 +8,8 @@ liste yazalım
 + eleman 3
 
 bu eklentide gitignore öğreniyorum
+
+## bugün branchleri öğreniyorum
+
+öğrendiklerimi diğer klasörlere yazdım
+dfmdmşmb
