@@ -7,4 +7,4 @@ liste yazalım
 + eleman 2
 + eleman 3
 
-bu eklentide gitignore öğgreniyorum
+bu eklentide gitignore öğreniyorum
