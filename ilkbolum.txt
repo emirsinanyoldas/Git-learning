@@ -1,1 +1,1 @@
-merge conflict için yazılan satır
+arka kapak branchi için yazdığım satır
