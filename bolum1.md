@@ -1,1 +1,3 @@
-git kitabımız için denemeler devam ediyor
+# Git kitabımız için denemeler devam ediyor
+
+lorem ipsum dolor sit amet
