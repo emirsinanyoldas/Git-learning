@@ -1,3 +1,6 @@
 arka kapak branchi için yazdığım satır
 
 bunu back cover kısmında yazdım
+
+lorem ipsum dolor sit amet
+git stash için yazılan satırlar
