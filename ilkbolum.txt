@@ -1,3 +1,4 @@
 arka kapak branchi için yazdığım satır
 
-bunu back cover kısmında yazdım
+bunu master kısmında yazdım
+stash iki için satır
