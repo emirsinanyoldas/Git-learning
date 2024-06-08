@@ -1,4 +1,2 @@
-arka kapak branchi için yazdığım satır
-
-bunu master kısmında yazdım
-stash iki için satır
+diğer satırları silip bu satırı ekledim
+çünkü checkout öğrenmeye çalışıyorum
