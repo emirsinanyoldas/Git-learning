@@ -1,2 +1,4 @@
 diğer satırları silip bu satırı ekledim
 çünkü checkout öğrenmeye çalışıyorum
+
+bunları tekrar yazıyorum git revert kullanmak için
