@@ -5,3 +5,6 @@ Ayrıca sakin bir şekilde kod yazmaya devam ediyorum.
 
 2. lorem ipsum dolor sit amet
 3. commit için lorem ipsum
+
+4. commit ile revert e geçiş yaptım
+5. commit revert için
