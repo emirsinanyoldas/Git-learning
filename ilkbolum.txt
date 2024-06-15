@@ -3,3 +3,8 @@ diğer satırları silip bu satırı ekledim
 
 bunları tekrar yazıyorum git revert kullanmak için
 mtg desesperança baya iyiymiş
+
+bunu back cover kısmında yazdım
+
+lorem ipsum dolor sit amet
+git stash için yazılan satırlar
