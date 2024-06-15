@@ -1,3 +1,5 @@
 Bu kitabı checkout için yazdım bakalım nasıl yapılıyor.
 
 Ayrıca sakin bir şekilde kod yazmaya devam ediyorum.
+
+bu yazı diff için yazıldı
