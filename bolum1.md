@@ -8,3 +8,7 @@ lorem ipsum dolor sit amet
 ### *italik* __kalın__ ***hem kalın hemde italik***
 
 - bu geriye dönme için yazdığım satır
+- falan felna 
+
+# git kullanımı
+$$bu ne ise yariyor bilmiyorum
