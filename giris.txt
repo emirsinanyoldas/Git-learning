@@ -4,3 +4,4 @@ Ayrıca sakin bir şekilde kod yazmaya devam ediyorum.
 1. commit satırı
 
 2. lorem ipsum dolor sit amet
+3. commit için lorem ipsum
