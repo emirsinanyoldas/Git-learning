@@ -1,7 +1,4 @@
-diğer satırları silip bu satırı ekledim
-çünkü checkout öğrenmeye çalışıyorum
+arka kapak branchi için yazdığım satır
 
-bu satırı reset denemeleri yapmak için yazıyorum
-
-bu satır ise reset --hard için yazdım
-lorem ipsum dolor sit amet
+bunu master kısmında yazdım
+stash iki için satır

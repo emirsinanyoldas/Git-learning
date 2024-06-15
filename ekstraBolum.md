@@ -1,8 +1,4 @@
-# Burası ekstra bölüm
-
-## Bunu farklı brnach de yazdım
-
-### Bunu ekstra olarak yazdım
+ Burası ekstra bölüm
 
 ## Bunu farklı brnach de yazdım
 
