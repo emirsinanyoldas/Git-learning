@@ -9,4 +9,3 @@ Ayrıca sakin bir şekilde kod yazmaya devam ediyorum.
 4. commit ile revert e geçiş yaptım
 5. commit revert için
 6. git öğrenmek için sayısını bilemediğim kadar commit
-7. deneme satırı
