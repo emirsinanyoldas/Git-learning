@@ -1,4 +1,10 @@
-arka kapak branchi için yazdığım satır
+diğer satırları silip bu satırı ekledim
+çünkü checkout öğrenmeye çalışıyorum
 
-bunu master kısmında yazdım
-stash iki için satır
+bunları tekrar yazıyorum git revert kullanmak için
+mtg desesperança baya iyiymiş
+
+bunu back cover kısmında yazdım
+
+lorem ipsum dolor sit amet
+git stash için yazılan satırlar

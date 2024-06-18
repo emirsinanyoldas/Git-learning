@@ -1,4 +1,3 @@
-Bu kitabı checkout için yazdım bakalım nasıl yapılıyor.
 Ayrıca sakin bir şekilde kod yazmaya devam ediyorum.
 
 1. commit satırı
@@ -9,3 +8,6 @@ Ayrıca sakin bir şekilde kod yazmaya devam ediyorum.
 4. commit ile revert e geçiş yaptım
 5. commit revert için
 6. git öğrenmek için sayısını bilemediğim kadar commit
+
+bu yazı diff için yazıldı
+git diff HEAD dolor sit amet
