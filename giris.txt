@@ -1,5 +1,6 @@
 Ayrıca sakin bir şekilde kod yazmaya devam ediyorum.
 
+<<<<<<< HEAD
 1. commit satırı
 
 2. lorem ipsum dolor sit amet
@@ -11,3 +12,8 @@ Ayrıca sakin bir şekilde kod yazmaya devam ediyorum.
 
 bu yazı diff için yazıldı
 git diff HEAD dolor sit amet
+=======
+Ayrıca sakin bir şekilde kod yazmaya devam ediyorum.
+
+girişi tamamladım
+>>>>>>> 17ed488 (giris.txt tamamlandı)
