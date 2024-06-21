@@ -1,7 +1,6 @@
 diğer satırları silip bu satırı ekledim
 çünkü checkout öğrenmeye çalışıyorum
 
-<<<<<<< HEAD
 bunları tekrar yazıyorum git revert kullanmak için
 mtg desesperança baya iyiymiş
 
@@ -9,8 +8,7 @@ bunu back cover kısmında yazdım
 
 lorem ipsum dolor sit amet
 git stash için yazılan satırlar
-=======
+
 bunu master kısmında yazdım
 stash iki için satır
 git switch ile eski branch e geçtim
->>>>>>> 3f4a476 (eski branch e geçip değişiklik yaptım)
